@@ -1,0 +1,56 @@
+<h1 align="center"> Ironhack - LABs <br>
+  <img src="https://camo.githubusercontent.com/52d2ff8778b60261533a7dba8dd989c6893a519b/68747470733a2f2f692e696d6775722e636f6d2f315167724e4e772e706e67">
+</h1>
+<br>
+
+Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack.
+
+## Week 1 - Módulo 1
+
+| Day  |  Conteúdo                   |
+| ---- | ----------------------------|
+|  2   | Dicts, Sets and Tuples      |
+|  2   | String Operations           |
+|  3   | List Comprehension          |
+|  3   | Functional Programming      |
+|  4   | Error Handling              |
+|  4   | Object-Oriented Programming |
+
+## Week 2 - Módulo 1
+
+| Day  |  Conteúdo                         |
+| ---- | ----------------------------      |
+|  1   | Numpy                             |
+|  2   | Intro to Pandas                   |
+|  2   | Importing and Exporting Data      |
+|  3   | Data Manipulation - Filtering     |
+|  3   | Data Manipulation - Aggregations  |
+|  4   | Data Cleaning                     |
+|  5   | Dataframe Calculations            |
+
+## Week 3 - Módulo 1
+
+| Day  |  Conteúdo                         |
+| ---- | ----------------------------      |
+|  1   | Map, Reduce and Filter            |
+|  1   | Lambda Functions                  |
+|  2   | Advanced Regex                    |
+|  4   | PostgreSQL - DDL                  |
+|  4   | PostgreSQL - First Queries        |
+|  5   | PostgreSQL - DML                  |
+|  5   | Advanced Queries                  |
+
+## Week 4 - Módulo 1
+
+| Day  |  Conteúdo                         |
+| ---- | ----------------------------      |
+|  1   | API Scavenger                     |
+
+
+
+
+
+
+
+
+
