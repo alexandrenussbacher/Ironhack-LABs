@@ -5,10 +5,10 @@
 
 Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack.
 
-<h2 align="center"> Módulo 1</h2>
+## Módulo 1
 
 <table>
-<tr><th>Week 1</th><th>Week 2</th><th>Week 3</th><th>Week 4</tr>
+<tr><th>Week 1</th><th>Week 2</th><th>
 <tr><td>
 
 | Day  |  Conteúdo                   |
@@ -32,7 +32,11 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 |  4   | Data Cleaning                     |
 |  5   | Dataframe Calculations            |
 
-</td><td>
+</td></tr> </table>
+
+<table>
+<tr><th>Week 3</th><th>Week 4</th><th>
+<tr><td>
 
 | Day  |  Conteúdo                         |
 | ---- | ----------------------------      |
@@ -55,7 +59,7 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 
 </td></tr> </table>
 
-<h2 align="center"> Módulo 2</h2>
+## Módulo 2
 
 
 
