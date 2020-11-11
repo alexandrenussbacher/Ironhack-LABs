@@ -32,11 +32,10 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 |  4   | Data Cleaning                     |
 |  5   | Dataframe Calculations            |
 
-</td></tr> </table>
+</td></tr>
 
-<table>
 <tr><th>Week 3</th><th>Week 4</th></tr>
-<tr><td>
+<tr align="center"><td>
 
 | Day  |  Conteúdo                         |
 | ---- | ----------------------------      |
