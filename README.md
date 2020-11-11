@@ -8,7 +8,7 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 ## Módulo 1
 
 <table>
-<tr><th>Week 1</th><th>Week 2</th><th>
+<tr><th>Week 1</th><th>Week 2</th></tr>
 <tr><td>
 
 | Day  |  Conteúdo                   |
@@ -35,7 +35,7 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 </td></tr> </table>
 
 <table>
-<tr><th>Week 3</th><th>Week 4</th><th>
+<tr><th>Week 3</th><th>Week 4</th></tr>
 <tr><td>
 
 | Day  |  Conteúdo                         |
