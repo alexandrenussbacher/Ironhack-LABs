@@ -5,7 +5,11 @@
 
 Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack.
 
-## Week 1 - Módulo 1
+## Módulo 1
+
+<table>
+<tr><th>Week 1</th><th>Week 2</th></tr>
+<tr><td>
 
 | Day  |  Conteúdo                   |
 | ---- | ----------------------------|
@@ -16,7 +20,7 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 |  4   | Error Handling              |
 |  4   | Object-Oriented Programming |
 
-## Week 2 - Módulo 1
+</td><td>
 
 | Day  |  Conteúdo                         |
 | ---- | ----------------------------      |
@@ -28,7 +32,10 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 |  4   | Data Cleaning                     |
 |  5   | Dataframe Calculations            |
 
-## Week 3 - Módulo 1
+</td></tr>
+
+<tr><th>Week 3</th><th>Week 4</th></tr>
+<tr align="center"><td>
 
 | Day  |  Conteúdo                         |
 | ---- | ----------------------------      |
@@ -40,16 +47,18 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 |  5   | PostgreSQL - DML                  |
 |  5   | Advanced Queries                  |
 
-## Week 4 - Módulo 1
+</td><td>
 
 | Day  |  Conteúdo                         |
 | ---- | ----------------------------      |
 |  1   | API Scavenger                     |
+|  2   | StackAPI Wrappers                 |
+|  2   | Web Scraping                      |
+|  3   | Parallelization                   |
 
+</td></tr> </table>
 
-
-
-
+## Módulo 2
 
 
 
