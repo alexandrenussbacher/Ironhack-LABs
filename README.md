@@ -9,7 +9,7 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 
 <table>
 <tr><th>Week 1</th><th>Week 2</th></tr>
-<tr><td>
+<tr align="center"><td>
 
 | Day  |  Conteúdo                   |
 | ---- | ----------------------------|
@@ -62,7 +62,7 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 
 <table>
 <tr><th>Week 5</th><th>Week 6</th></tr>
-<tr><td>
+<tr align="center"><td>
 
 | Day  |  Conteúdo                         |
 | ---- | ----------------------------      |
@@ -89,7 +89,7 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 
 <table>
 <tr><th>Week 5</th><th>Week 6</th></tr>
-<tr><td>
+<tr align="center"><td>
 
 | Day  |  Conteúdo                               |
 | ---- | ----------------------------            |
