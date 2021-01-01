@@ -86,7 +86,6 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 </td></tr> </table>
 
 ## Módulo 3
-<<<<<<< HEAD
 
 <table>
 <tr><th>Week 7</th><th>Week 8</th></tr>
@@ -108,12 +107,10 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 |  3   | Natural Language Processing       |
 
 </td></tr> </table>
-=======
 
 <table>
 <tr><th>Week 7</th><th>Week 8</th></tr>
 <tr align="center"><td>
->>>>>>> ed3b37509b8ca153ed8d21782078d4d259b56c02
 
 | Day  |  Conteúdo                               |
 | ---- | ----------------------------            |
