@@ -60,6 +60,50 @@ Exercícios diários realizados durante o bootcamp de Data Analytics da Ironhack
 
 ## Módulo 2
 
+<table>
+<tr><th>Week 5</th><th>Week 6</th></tr>
+<tr><td>
 
+| Day  |  Conteúdo                         |
+| ---- | ----------------------------      |
+|  1   | Matplotlib and Seaborn            |
+|  2   | Introduction to BI and Tableau    |
+|  2   | BI Analysis with Tableau          |
+|  3   | Data Visualization with Tableau   |
 
+</td><td>
 
+| Day  |  Conteúdo                         |
+| ---- | ----------------------------      |
+|  1   | Descriptive Statistics            |
+|  1   | Statistics Visualization          |
+|  2   | Linear Regression                 |
+|  3   | Probability Distributions         |
+|  4   | Hypothesis Testing                |
+|  4   | Two Sample Hypothesis Testing     |
+|  5   | Recommender Systems               |
+
+</td></tr> </table>
+
+## Módulo 3
+
+<table>
+<tr><th>Week 5</th><th>Week 6</th></tr>
+<tr><td>
+
+| Day  |  Conteúdo                               |
+| ---- | ----------------------------            |
+|  3   | Principal Component Analysis (PCA)      |
+|  4   | Unsupervised Learning with Scikit-Learn |
+|  4   | Unsupervised Learning                   |
+|  5   | Titanic Exploration                     |
+|  5   | Evaluation                              |
+
+</td><td>
+
+| Day  |  Conteúdo                         |
+| ---- | ----------------------------      |
+|  1   | Titanic Classification            |
+|  3   | Natural Language Processing       |
+
+</td></tr> </table>
